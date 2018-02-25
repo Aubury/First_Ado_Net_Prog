@@ -1,0 +1,6 @@
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\First_Ado.Net_Programm\First_Ado.Net_Programm\bin\Debug\First_Ado.Net_Programm.exe.config
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\First_Ado.Net_Programm\First_Ado.Net_Programm\bin\Debug\First_Ado.Net_Programm.exe
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\First_Ado.Net_Programm\First_Ado.Net_Programm\bin\Debug\First_Ado.Net_Programm.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\First_Ado.Net_Programm\First_Ado.Net_Programm\obj\Debug\First_Ado.Net_Programm.csprojResolveAssemblyReference.cache
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\First_Ado.Net_Programm\First_Ado.Net_Programm\obj\Debug\First_Ado.Net_Programm.exe
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\First_Ado.Net_Programm\First_Ado.Net_Programm\obj\Debug\First_Ado.Net_Programm.pdb
